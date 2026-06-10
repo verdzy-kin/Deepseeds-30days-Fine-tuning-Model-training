@@ -51,9 +51,9 @@ Fine-tuning transforms general-purpose language models into domain-specific expe
 
 | Day | Topic | Status | Key Output / Learnings Link |
 | :--- | :--- | :---: | :--- |
-| **01** | Why Fine-Tune? | ⬜ | [learnings.md](file:///d:/30daysGenAI/Model%20training/week1/day01/learnings.md) |
-| **02** | Hugging Face Ecosystem | ⬜ | - |
-| **03** | Dataset Curation & Formatting | ⬜ | - |
+| **01** | Why Fine-Tune? | ✅ | [learnings.md](week1/day01/learnings.md) |
+| **02** | Hugging Face Ecosystem | ✅ | [learnings.md](week1/day02/learnings.md) |
+| **03** | Dataset Curation & Formatting | ✅ | [learnings.md](week1/day03/learnings.md) |
 | **04** | LoRA: Low-Rank Adaptation | ⬜ | - |
 | **05** | QLoRA: Fine-Tuning on Consumer Hardware | ⬜ | - |
 | **06** | Unsloth: Fast Fine-Tuning | ⬜ | - |
